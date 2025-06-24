@@ -1,1 +1,2 @@
 # TASK-2_ELEVATELAB_INTERN
+Today, I performed Exploratory Data Analysis on the Netflix Movies and TV Shows dataset. I cleaned missing values, extracted numeric features (like duration in minutes), and generated summary statistics. Using visualizations like bar plots, histograms, boxplots, and heatmaps, I explored trends in content type, release years, movie durations, and country-wise production. I also examined correlations between features to understand hidden patterns. All plots were saved for documentation and reporting.
